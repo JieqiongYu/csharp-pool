@@ -1,0 +1,11 @@
+/Users/jieyu/Documents/code/csharp-pool/C# Basics/Collections/Collections/bin/Debug/netcoreapp2.1/Collections.deps.json
+/Users/jieyu/Documents/code/csharp-pool/C# Basics/Collections/Collections/bin/Debug/netcoreapp2.1/Collections.runtimeconfig.json
+/Users/jieyu/Documents/code/csharp-pool/C# Basics/Collections/Collections/bin/Debug/netcoreapp2.1/Collections.runtimeconfig.dev.json
+/Users/jieyu/Documents/code/csharp-pool/C# Basics/Collections/Collections/bin/Debug/netcoreapp2.1/Collections.dll
+/Users/jieyu/Documents/code/csharp-pool/C# Basics/Collections/Collections/bin/Debug/netcoreapp2.1/Collections.pdb
+/Users/jieyu/Documents/code/csharp-pool/C# Basics/Collections/Collections/obj/Debug/netcoreapp2.1/Collections.csprojResolveAssemblyReference.cache
+/Users/jieyu/Documents/code/csharp-pool/C# Basics/Collections/Collections/obj/Debug/netcoreapp2.1/Collections.csproj.CoreCompileInputs.cache
+/Users/jieyu/Documents/code/csharp-pool/C# Basics/Collections/Collections/obj/Debug/netcoreapp2.1/Collections.AssemblyInfoInputs.cache
+/Users/jieyu/Documents/code/csharp-pool/C# Basics/Collections/Collections/obj/Debug/netcoreapp2.1/Collections.AssemblyInfo.cs
+/Users/jieyu/Documents/code/csharp-pool/C# Basics/Collections/Collections/obj/Debug/netcoreapp2.1/Collections.dll
+/Users/jieyu/Documents/code/csharp-pool/C# Basics/Collections/Collections/obj/Debug/netcoreapp2.1/Collections.pdb

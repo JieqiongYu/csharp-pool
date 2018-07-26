@@ -1,0 +1,11 @@
+/Users/jieyu/Documents/code/csharp-pool/C# Basics/SchoolTracker/SchoolTracker/obj/Debug/netcoreapp2.1/SchoolTracker.csprojResolveAssemblyReference.cache
+/Users/jieyu/Documents/code/csharp-pool/C# Basics/SchoolTracker/SchoolTracker/obj/Debug/netcoreapp2.1/SchoolTracker.csproj.CoreCompileInputs.cache
+/Users/jieyu/Documents/code/csharp-pool/C# Basics/SchoolTracker/SchoolTracker/obj/Debug/netcoreapp2.1/SchoolTracker.AssemblyInfoInputs.cache
+/Users/jieyu/Documents/code/csharp-pool/C# Basics/SchoolTracker/SchoolTracker/obj/Debug/netcoreapp2.1/SchoolTracker.AssemblyInfo.cs
+/Users/jieyu/Documents/code/csharp-pool/C# Basics/SchoolTracker/SchoolTracker/bin/Debug/netcoreapp2.1/SchoolTracker.deps.json
+/Users/jieyu/Documents/code/csharp-pool/C# Basics/SchoolTracker/SchoolTracker/bin/Debug/netcoreapp2.1/SchoolTracker.runtimeconfig.json
+/Users/jieyu/Documents/code/csharp-pool/C# Basics/SchoolTracker/SchoolTracker/bin/Debug/netcoreapp2.1/SchoolTracker.runtimeconfig.dev.json
+/Users/jieyu/Documents/code/csharp-pool/C# Basics/SchoolTracker/SchoolTracker/bin/Debug/netcoreapp2.1/SchoolTracker.dll
+/Users/jieyu/Documents/code/csharp-pool/C# Basics/SchoolTracker/SchoolTracker/bin/Debug/netcoreapp2.1/SchoolTracker.pdb
+/Users/jieyu/Documents/code/csharp-pool/C# Basics/SchoolTracker/SchoolTracker/obj/Debug/netcoreapp2.1/SchoolTracker.dll
+/Users/jieyu/Documents/code/csharp-pool/C# Basics/SchoolTracker/SchoolTracker/obj/Debug/netcoreapp2.1/SchoolTracker.pdb

@@ -1,0 +1,11 @@
+/Users/jieyu/Documents/code/csharp-pool/ForLoop/ForLoop/bin/Debug/netcoreapp2.1/ForLoop.deps.json
+/Users/jieyu/Documents/code/csharp-pool/ForLoop/ForLoop/bin/Debug/netcoreapp2.1/ForLoop.runtimeconfig.json
+/Users/jieyu/Documents/code/csharp-pool/ForLoop/ForLoop/bin/Debug/netcoreapp2.1/ForLoop.runtimeconfig.dev.json
+/Users/jieyu/Documents/code/csharp-pool/ForLoop/ForLoop/bin/Debug/netcoreapp2.1/ForLoop.dll
+/Users/jieyu/Documents/code/csharp-pool/ForLoop/ForLoop/bin/Debug/netcoreapp2.1/ForLoop.pdb
+/Users/jieyu/Documents/code/csharp-pool/ForLoop/ForLoop/obj/Debug/netcoreapp2.1/ForLoop.csprojResolveAssemblyReference.cache
+/Users/jieyu/Documents/code/csharp-pool/ForLoop/ForLoop/obj/Debug/netcoreapp2.1/ForLoop.csproj.CoreCompileInputs.cache
+/Users/jieyu/Documents/code/csharp-pool/ForLoop/ForLoop/obj/Debug/netcoreapp2.1/ForLoop.AssemblyInfoInputs.cache
+/Users/jieyu/Documents/code/csharp-pool/ForLoop/ForLoop/obj/Debug/netcoreapp2.1/ForLoop.AssemblyInfo.cs
+/Users/jieyu/Documents/code/csharp-pool/ForLoop/ForLoop/obj/Debug/netcoreapp2.1/ForLoop.dll
+/Users/jieyu/Documents/code/csharp-pool/ForLoop/ForLoop/obj/Debug/netcoreapp2.1/ForLoop.pdb

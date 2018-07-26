@@ -1,0 +1,11 @@
+/Users/jieyu/Documents/code/csharp-pool/C# Basics/StudentManager/StudentManager/obj/Debug/netcoreapp2.1/StudentManager.csprojResolveAssemblyReference.cache
+/Users/jieyu/Documents/code/csharp-pool/C# Basics/StudentManager/StudentManager/obj/Debug/netcoreapp2.1/StudentManager.csproj.CoreCompileInputs.cache
+/Users/jieyu/Documents/code/csharp-pool/C# Basics/StudentManager/StudentManager/obj/Debug/netcoreapp2.1/StudentManager.AssemblyInfoInputs.cache
+/Users/jieyu/Documents/code/csharp-pool/C# Basics/StudentManager/StudentManager/obj/Debug/netcoreapp2.1/StudentManager.AssemblyInfo.cs
+/Users/jieyu/Documents/code/csharp-pool/C# Basics/StudentManager/StudentManager/bin/Debug/netcoreapp2.1/StudentManager.deps.json
+/Users/jieyu/Documents/code/csharp-pool/C# Basics/StudentManager/StudentManager/bin/Debug/netcoreapp2.1/StudentManager.runtimeconfig.json
+/Users/jieyu/Documents/code/csharp-pool/C# Basics/StudentManager/StudentManager/bin/Debug/netcoreapp2.1/StudentManager.runtimeconfig.dev.json
+/Users/jieyu/Documents/code/csharp-pool/C# Basics/StudentManager/StudentManager/bin/Debug/netcoreapp2.1/StudentManager.dll
+/Users/jieyu/Documents/code/csharp-pool/C# Basics/StudentManager/StudentManager/bin/Debug/netcoreapp2.1/StudentManager.pdb
+/Users/jieyu/Documents/code/csharp-pool/C# Basics/StudentManager/StudentManager/obj/Debug/netcoreapp2.1/StudentManager.dll
+/Users/jieyu/Documents/code/csharp-pool/C# Basics/StudentManager/StudentManager/obj/Debug/netcoreapp2.1/StudentManager.pdb

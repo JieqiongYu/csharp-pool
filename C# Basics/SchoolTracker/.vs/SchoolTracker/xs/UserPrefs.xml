@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{C96579C0-13DA-4CB8-ACD8-0148393673F1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SchoolTracker/Program.cs">
+    <Files>
+      <File FileName="SchoolTracker/Program.cs" Line="28" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SchoolTracker PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

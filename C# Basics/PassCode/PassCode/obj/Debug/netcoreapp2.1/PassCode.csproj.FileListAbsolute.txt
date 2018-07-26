@@ -1,0 +1,11 @@
+/Users/jieyu/Projects/PassCode/PassCode/bin/Debug/netcoreapp2.1/PassCode.deps.json
+/Users/jieyu/Projects/PassCode/PassCode/bin/Debug/netcoreapp2.1/PassCode.runtimeconfig.json
+/Users/jieyu/Projects/PassCode/PassCode/bin/Debug/netcoreapp2.1/PassCode.runtimeconfig.dev.json
+/Users/jieyu/Projects/PassCode/PassCode/bin/Debug/netcoreapp2.1/PassCode.dll
+/Users/jieyu/Projects/PassCode/PassCode/bin/Debug/netcoreapp2.1/PassCode.pdb
+/Users/jieyu/Projects/PassCode/PassCode/obj/Debug/netcoreapp2.1/PassCode.csprojResolveAssemblyReference.cache
+/Users/jieyu/Projects/PassCode/PassCode/obj/Debug/netcoreapp2.1/PassCode.csproj.CoreCompileInputs.cache
+/Users/jieyu/Projects/PassCode/PassCode/obj/Debug/netcoreapp2.1/PassCode.AssemblyInfoInputs.cache
+/Users/jieyu/Projects/PassCode/PassCode/obj/Debug/netcoreapp2.1/PassCode.AssemblyInfo.cs
+/Users/jieyu/Projects/PassCode/PassCode/obj/Debug/netcoreapp2.1/PassCode.dll
+/Users/jieyu/Projects/PassCode/PassCode/obj/Debug/netcoreapp2.1/PassCode.pdb

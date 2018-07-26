@@ -1,0 +1,11 @@
+/Users/jieyu/Documents/code/csharp-pool/C# Basics/JobCandidate/JobCandidate/obj/Debug/netcoreapp2.1/JobCandidate.csprojResolveAssemblyReference.cache
+/Users/jieyu/Documents/code/csharp-pool/C# Basics/JobCandidate/JobCandidate/obj/Debug/netcoreapp2.1/JobCandidate.csproj.CoreCompileInputs.cache
+/Users/jieyu/Documents/code/csharp-pool/C# Basics/JobCandidate/JobCandidate/obj/Debug/netcoreapp2.1/JobCandidate.AssemblyInfoInputs.cache
+/Users/jieyu/Documents/code/csharp-pool/C# Basics/JobCandidate/JobCandidate/obj/Debug/netcoreapp2.1/JobCandidate.AssemblyInfo.cs
+/Users/jieyu/Documents/code/csharp-pool/C# Basics/JobCandidate/JobCandidate/bin/Debug/netcoreapp2.1/JobCandidate.deps.json
+/Users/jieyu/Documents/code/csharp-pool/C# Basics/JobCandidate/JobCandidate/bin/Debug/netcoreapp2.1/JobCandidate.runtimeconfig.json
+/Users/jieyu/Documents/code/csharp-pool/C# Basics/JobCandidate/JobCandidate/bin/Debug/netcoreapp2.1/JobCandidate.runtimeconfig.dev.json
+/Users/jieyu/Documents/code/csharp-pool/C# Basics/JobCandidate/JobCandidate/bin/Debug/netcoreapp2.1/JobCandidate.dll
+/Users/jieyu/Documents/code/csharp-pool/C# Basics/JobCandidate/JobCandidate/bin/Debug/netcoreapp2.1/JobCandidate.pdb
+/Users/jieyu/Documents/code/csharp-pool/C# Basics/JobCandidate/JobCandidate/obj/Debug/netcoreapp2.1/JobCandidate.dll
+/Users/jieyu/Documents/code/csharp-pool/C# Basics/JobCandidate/JobCandidate/obj/Debug/netcoreapp2.1/JobCandidate.pdb

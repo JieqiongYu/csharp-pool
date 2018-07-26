@@ -1,0 +1,11 @@
+/Users/jieyu/Documents/code/csharp-pool/C# Basics/LoopCounting/LoopCounting/bin/Debug/netcoreapp2.1/LoopCounting.deps.json
+/Users/jieyu/Documents/code/csharp-pool/C# Basics/LoopCounting/LoopCounting/bin/Debug/netcoreapp2.1/LoopCounting.runtimeconfig.json
+/Users/jieyu/Documents/code/csharp-pool/C# Basics/LoopCounting/LoopCounting/bin/Debug/netcoreapp2.1/LoopCounting.runtimeconfig.dev.json
+/Users/jieyu/Documents/code/csharp-pool/C# Basics/LoopCounting/LoopCounting/bin/Debug/netcoreapp2.1/LoopCounting.dll
+/Users/jieyu/Documents/code/csharp-pool/C# Basics/LoopCounting/LoopCounting/bin/Debug/netcoreapp2.1/LoopCounting.pdb
+/Users/jieyu/Documents/code/csharp-pool/C# Basics/LoopCounting/LoopCounting/obj/Debug/netcoreapp2.1/LoopCounting.csprojResolveAssemblyReference.cache
+/Users/jieyu/Documents/code/csharp-pool/C# Basics/LoopCounting/LoopCounting/obj/Debug/netcoreapp2.1/LoopCounting.csproj.CoreCompileInputs.cache
+/Users/jieyu/Documents/code/csharp-pool/C# Basics/LoopCounting/LoopCounting/obj/Debug/netcoreapp2.1/LoopCounting.AssemblyInfoInputs.cache
+/Users/jieyu/Documents/code/csharp-pool/C# Basics/LoopCounting/LoopCounting/obj/Debug/netcoreapp2.1/LoopCounting.AssemblyInfo.cs
+/Users/jieyu/Documents/code/csharp-pool/C# Basics/LoopCounting/LoopCounting/obj/Debug/netcoreapp2.1/LoopCounting.dll
+/Users/jieyu/Documents/code/csharp-pool/C# Basics/LoopCounting/LoopCounting/obj/Debug/netcoreapp2.1/LoopCounting.pdb
