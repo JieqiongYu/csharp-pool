@@ -1,0 +1,11 @@
+/Users/jieyu/Documents/code/csharp-pool/Survey/Survey/bin/Debug/netcoreapp2.1/Survey.deps.json
+/Users/jieyu/Documents/code/csharp-pool/Survey/Survey/bin/Debug/netcoreapp2.1/Survey.runtimeconfig.json
+/Users/jieyu/Documents/code/csharp-pool/Survey/Survey/bin/Debug/netcoreapp2.1/Survey.runtimeconfig.dev.json
+/Users/jieyu/Documents/code/csharp-pool/Survey/Survey/bin/Debug/netcoreapp2.1/Survey.dll
+/Users/jieyu/Documents/code/csharp-pool/Survey/Survey/bin/Debug/netcoreapp2.1/Survey.pdb
+/Users/jieyu/Documents/code/csharp-pool/Survey/Survey/obj/Debug/netcoreapp2.1/Survey.csprojResolveAssemblyReference.cache
+/Users/jieyu/Documents/code/csharp-pool/Survey/Survey/obj/Debug/netcoreapp2.1/Survey.csproj.CoreCompileInputs.cache
+/Users/jieyu/Documents/code/csharp-pool/Survey/Survey/obj/Debug/netcoreapp2.1/Survey.AssemblyInfoInputs.cache
+/Users/jieyu/Documents/code/csharp-pool/Survey/Survey/obj/Debug/netcoreapp2.1/Survey.AssemblyInfo.cs
+/Users/jieyu/Documents/code/csharp-pool/Survey/Survey/obj/Debug/netcoreapp2.1/Survey.dll
+/Users/jieyu/Documents/code/csharp-pool/Survey/Survey/obj/Debug/netcoreapp2.1/Survey.pdb

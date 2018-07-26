@@ -1,0 +1,11 @@
+/Users/jieyu/Documents/code/csharp-pool/HelloWorld/HelloWorld/bin/Debug/netcoreapp2.1/HelloWorld.deps.json
+/Users/jieyu/Documents/code/csharp-pool/HelloWorld/HelloWorld/bin/Debug/netcoreapp2.1/HelloWorld.runtimeconfig.json
+/Users/jieyu/Documents/code/csharp-pool/HelloWorld/HelloWorld/bin/Debug/netcoreapp2.1/HelloWorld.runtimeconfig.dev.json
+/Users/jieyu/Documents/code/csharp-pool/HelloWorld/HelloWorld/bin/Debug/netcoreapp2.1/HelloWorld.dll
+/Users/jieyu/Documents/code/csharp-pool/HelloWorld/HelloWorld/bin/Debug/netcoreapp2.1/HelloWorld.pdb
+/Users/jieyu/Documents/code/csharp-pool/HelloWorld/HelloWorld/obj/Debug/netcoreapp2.1/HelloWorld.csprojResolveAssemblyReference.cache
+/Users/jieyu/Documents/code/csharp-pool/HelloWorld/HelloWorld/obj/Debug/netcoreapp2.1/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/jieyu/Documents/code/csharp-pool/HelloWorld/HelloWorld/obj/Debug/netcoreapp2.1/HelloWorld.AssemblyInfoInputs.cache
+/Users/jieyu/Documents/code/csharp-pool/HelloWorld/HelloWorld/obj/Debug/netcoreapp2.1/HelloWorld.AssemblyInfo.cs
+/Users/jieyu/Documents/code/csharp-pool/HelloWorld/HelloWorld/obj/Debug/netcoreapp2.1/HelloWorld.dll
+/Users/jieyu/Documents/code/csharp-pool/HelloWorld/HelloWorld/obj/Debug/netcoreapp2.1/HelloWorld.pdb
